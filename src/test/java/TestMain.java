@@ -5,8 +5,8 @@ public class TestMain {
 
     @Test
     public void test() {
-        int uitkomst = Main.reken(9, 22);
-        int expected = 31;
+        int uitkomst = Main.reken(4, 6);
+        int expected = 10;
         assertEquals(uitkomst, expected);
     }
 }
