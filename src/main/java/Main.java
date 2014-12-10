@@ -7,8 +7,8 @@ public class Main {
     }
 
     public static int reken(int getalA,int getalB){
-        int uitkomst = getalA + getalB;
-        return uitkomst;
+        int som = getalA + getalB;
+        return som;
     }
 }
 
