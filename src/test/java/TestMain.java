@@ -6,8 +6,8 @@ public class TestMain {
 
     @Test
     public void testPasses() {
-        int expected = 24;
-        int output = Main.reken(14,10);
+        int expected = 23;
+        int output = Main.reken(14,9);
         assertEquals(output, expected);
     }
 
